@@ -5,7 +5,13 @@ theme = "dario"
 
 # Optional: enable syntax highlighting for code blocks
 pygmentsUseClasses = true
+# netlify.toml
+[build]
+  command = "hugo"
+  publish = "public"
 
+[build.environment]
+  HUGO_VERSION = "0.116.3"
 [params]
   description = "A personal blog about me, my work, and hobbies."
   
