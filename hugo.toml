@@ -1,0 +1,16 @@
+baseURL = "https://gideonler.github.io/"
+languageCode = "en-us"
+title = "Gideon Ler"
+theme = "dario"
+
+# Optional: enable syntax highlighting for code blocks
+pygmentsUseClasses = true
+
+[params]
+  description = "A personal blog about me, my work, and hobbies."
+  
+  [params.author]
+    name = "Gideon Ler"
+    email = "gideonler@gmail.com"
+    linkedin = "https://www.linkedin.com/in/gideonler/"
+    github = "https://github.com/gideonler"
