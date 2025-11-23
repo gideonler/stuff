@@ -1,4 +1,4 @@
-baseURL = "https://gideonler.github.io/gideon_blog_reflections/"
+baseURL = "https://gideonler.github.io/stuff/"
 languageCode = "en-us"
 title = "Gideon Ler"
 theme = "dario"
