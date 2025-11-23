@@ -15,4 +15,3 @@ Outside of work, I’m passionate about:
 
 This blog is a space where I occasionally write about my projects, personal growth, and reflections on life.
 
-Feel free to explore and get to know me a bit better!  
